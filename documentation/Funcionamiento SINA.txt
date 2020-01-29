@@ -1,0 +1,75 @@
+
+
+APLICACIOn SINA:
+
+
+Acceso a la aplicacion a traves de un login que estara basado en el nombre y apellido con permisos para poder actuar sober la aplicacion.
+
+Al arrancar el programa y acceder dependiendo del rol del usuario saldran una lista de cajas a las que puede acceder. Al acceder a una suele mostrar una lista de episodios, llamada tambien lista de trabajo.
+
+El acceso y visualización de unas cajas u otras depende del usuario y rol con el que se logueen.
+
+Una vez logueado y en la aplicacion podremos acceder al menu del usuario que nos permite cambiar el rol de uso del usuario, por ejemplo un medico puede actuar como médico de medicina interna y como neurologo.
+Al cambiar el rol directamente cmabiarán sus privelegios de usuario y su acceso a ámbito s de la aplicacion.
+
+La mayoria de las cajas, al acceder suelen presentar una visualizacion de una lista de episodios (Lista de trabajo).
+
+
+
+
+
+
+
+_______-------------------_________
+
+
+
+Entrar en consultas externas, listar episodios. 
+
+Una vez situado en un episodio, que se mostrara en forma de barra tendra un button para finalizar el episodio en el caso de que ya halla sido atendido por una medico, y si no es el caso, un button para acceder a 
+"pasar consulta". (Para ello se deberá acceder con usuario medico).
+
+
+Para localizar un paciente en concreto tenemos un buscador en la parte superior con un button para aplicar filtros a la busqueda y un button para el registro de un nuevo paciente.
+
+Para localizar un episodio este esta determinado por la fecha de la cita y la agenda en la que se encuentre. existen dos buttons atras y siguiente para navegar por las fechas, un check, dos buttons para
+mostrar el diagrama de citas por dias o por semanas y un button "agenda" que nos permite seleccionar una agenda u otra (Estas suelen estar asignadas a un médico o un grupo de médicos).
+
+Tambien en la parte superior se podra visualizar la agenda que esta seleccionada y una leyenda de colores para saber la situación del episodio, esta se mostrará en la parte izquierda de cada barra de episodio.
+
+
+La barra del paciente:
+
+Esta mostrará a traves de unos iconos las intolerancias o alergias del paciente.
+
+Al pulsar sobre ella se desplegará un menu del paciente.
+
+Menu del paciente.
+
+
+
+Objetivos:
+
+Al final de la barra del àciente apareceran dos buttons: una para iniciar consulta y otro para finalizar episodio. si la consulta esta iniciada el primer button desaparecera.
+
+Habra colores que se visualizarán para determinar el estado del paciente si este esta ya atendido o por atender.
+
+
+
+
+____Crear un sistema de usuario y contraseña con permisos, se crearan todas las cajas que lleva la aplicación y depende del usuario podra acceder a una u otra, al acceder a cualquier caja este nos llevara a una lista de episodios.
+
+LA MENCIONADA ANTERIORMENTE.
+
+La agenda tambien ira incluida.
+
+
+
+
+
+
+
+
+
+
+
